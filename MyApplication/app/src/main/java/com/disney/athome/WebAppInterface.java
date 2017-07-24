@@ -34,7 +34,7 @@ public abstract class WebAppInterface {
         });
         builder.setNegativeButton(android.R.string.cancel, null);
         builder.show();
-        Toast.makeText(mContext, "Signin click", Toast.LENGTH_SHORT).show();
+        Toast.makeText(mContext, "Signin click on test git", Toast.LENGTH_SHORT).show();
     }
 
 }
